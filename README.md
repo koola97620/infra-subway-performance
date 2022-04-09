@@ -445,8 +445,8 @@ DROP INDEX idx_hospital_name ON hospital;
 DROP INDEX idx_member_two ON member;
 ```
 
-
-
+# PR
+https://github.com/next-step/infra-subway-performance/pull/188
 
 
 
